@@ -1,0 +1,11 @@
+name = input("Enter your name :-")
+age = int(input("Enter your age:-"))
+Emp_Id = int(input("Enter your Employee Id:-"))
+Salary = float(input("Enter your Salary:-"))
+City = input("Enter your City:-") 
+Skills = input("Enter your Skills:-")
+Is_Active = bool(input("Enter your presence:-"))
+dept = input("Enter your Department:-")
+Exp = input("Enter your Experience:-")
+
+print('\n',name,'\n',age,'\n',Emp_Id,'\n',Salary,'\n',City,'\n',Skills,'\n',Is_Active,'\n',dept,'\n',Exp)
